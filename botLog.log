@@ -1,0 +1,126 @@
+Telegrambot.py[LINE:71]# INFO     [2016-12-14 18:11:11,460] Start the bot.
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:11,492] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:33,351] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 313
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:33,925] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:33,926] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:34,261] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendMessage?chat_id=304553912&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%B4%D1%80%D1%83%D0%B3.+%D0%A7%D0%B5%D0%BC+%D1%8F+%D0%BC%D0%BE%D0%B3%D1%83+%D1%82%D0%B5%D0%B1%D0%B5+%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C%3F HTTP/1.1" 200 397
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:53,536] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955466 HTTP/1.1" 200 312
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:53,543] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:53,544] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:53,878] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendMessage?chat_id=304553912&text=%D0%9F%D0%BE%D0%B4%D0%BE%D0%B6%D0%B4%D0%B8+%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%2C+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D1%82%D1%8B+%D1%83%D0%B2%D0%B8%D0%B4%D0%B8%D1%88%D1%8C+%D1%82%D0%B2%D0%BE%D1%8E+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D1%83.+%D0%90+%D0%BF%D0%BE%D0%BA%D0%B0+%D0%BF%D0%BE%D0%B4%D1%83%D0%BC%D0%B0%D0%B9+%D0%BD%D0%B0%D0%B4+%D1%82%D0%B5%D0%BC%2C+%D1%87%D1%82%D0%BE+%D0%B2+%D1%82%D0%B2%D0%BE%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%BD%D0%B5+%D1%82%D0%B0%D0%BA. HTTP/1.1" 200 703
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:53,902] Starting new HTTPS connection (1): www.google.ru
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:54,135] "GET /search?q=%20/text&newwindow=l&source=lnms&tbm=isch HTTP/1.1" 200 None
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:54,950] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:55,134] "GET /images?q=tbn:ANd9GcSNhuAUeXsW2yh-ZtY2JNEhDSnZQ2rU9tCczz1OHkrHdOPBw1FD7g HTTP/1.1" 200 10722
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,487] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,496] STREAM b'PLTE' 41 681
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,496] STREAM b'IDAT' 734 8192
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:55,626] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:55,789] "GET /images?q=tbn:ANd9GcQZsCYDWKjk9yxOi4d9RYYRnYodPxRA9UYAuY94wKZmDjLnHXqz7Q HTTP/1.1" 200 18556
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,795] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,796] STREAM b'PLTE' 41 153
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,796] STREAM b'IDAT' 206 8192
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:55,826] Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:55,993] "GET /images?q=tbn:ANd9GcS2LtMhh56CDDL3fkeJThY9GDptI5l5-ognZQoNBzHSZqsDboCm HTTP/1.1" 200 5336
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,996] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,996] STREAM b'PLTE' 41 144
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:55,996] STREAM b'IDAT' 197 5123
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,001] Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:56,162] "GET /images?q=tbn:ANd9GcT0XmkGGyXHv3H7Y8xRMmReJSBtv37LwW1p8x3k5a2cpbdkNKRm HTTP/1.1" 200 6891
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,224] Starting new HTTPS connection (1): encrypted-tbn1.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:56,390] "GET /images?q=tbn:ANd9GcTFYKLoRrdUs1HAEO1WDCtP4TOUWJeGEyHPkvz0hBnmMklKUcjZ HTTP/1.1" 200 5840
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,394] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,394] STREAM b'PLTE' 41 126
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,394] STREAM b'IDAT' 179 5645
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,407] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:56,571] "GET /images?q=tbn:ANd9GcRJOf-F84L3RlJ7Kd4S4_1XB1fNwlJ74dPvEOCpjQ4ug7sIuy9nWw HTTP/1.1" 200 11283
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,586] Starting new HTTPS connection (1): encrypted-tbn1.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:56,756] "GET /images?q=tbn:ANd9GcQLkb6T09YgmdiBbZ-hgQpPxuuiUlJ9EpfCMLbWT-6B5zIOr4Vi HTTP/1.1" 200 13764
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,760] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,760] STREAM b'PLTE' 41 150
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:56,760] STREAM b'IDAT' 203 8192
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,784] Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:56,949] "GET /images?q=tbn:ANd9GcRbcRwR9QzoPgyahVHtUOOZbGq3DL_eWgyspZ6GKilGiIllzVn1Ng HTTP/1.1" 200 16154
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:56,997] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:57,163] "GET /images?q=tbn:ANd9GcR2QW3I5VGiUrYcESemolu9cG0pVEg4W3WHObn-zwnMMvaj0jZQ HTTP/1.1" 200 9454
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:57,166] STREAM b'IHDR' 16 13
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:57,167] STREAM b'PLTE' 41 420
+PngImagePlugin.py[LINE:135]# DEBUG    [2016-12-14 18:11:57,167] STREAM b'IDAT' 473 8192
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:57,173] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:57,410] "GET /images?q=tbn:ANd9GcRDpb8lcBDertAIID8qusmd40UWABjyOIU54XpD4Au9iCY0dfYy HTTP/1.1" 200 17055
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:57,628] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:57,983] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:57,987] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:58,416] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:58,420] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:58,807] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:58,811] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:59,170] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 444
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:59,174] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:59,522] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 559
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:59,526] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:11:59,913] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:11:59,917] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:00,279] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 560
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:00,283] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:00,734] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 446
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:00,738] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:01,275] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 446
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:01,279] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:01,730] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 446
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:09,743] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955467 HTTP/1.1" 200 312
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:09,749] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:09,750] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:10,080] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendMessage?chat_id=304553912&text=%D0%9F%D0%BE%D0%B4%D0%BE%D0%B6%D0%B4%D0%B8+%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%2C+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D1%82%D1%8B+%D1%83%D0%B2%D0%B8%D0%B4%D0%B8%D1%88%D1%8C+%D1%82%D0%B2%D0%BE%D1%8E+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D1%83.+%D0%90+%D0%BF%D0%BE%D0%BA%D0%B0+%D0%BF%D0%BE%D0%B4%D1%83%D0%BC%D0%B0%D0%B9+%D0%BD%D0%B0%D0%B4+%D1%82%D0%B5%D0%BC%2C+%D1%87%D1%82%D0%BE+%D0%B2+%D1%82%D0%B2%D0%BE%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%BD%D0%B5+%D1%82%D0%B0%D0%BA. HTTP/1.1" 200 704
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:10,084] Starting new HTTPS connection (1): www.google.ru
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:10,314] "GET /search?q=%20/cat&newwindow=l&source=lnms&tbm=isch HTTP/1.1" 200 None
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:10,896] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,062] "GET /images?q=tbn:ANd9GcSoehQ9JdKXwQ01_Tnxy4h9FyBfykwvT11jINtiVCfjNZLC-jWrPA HTTP/1.1" 200 7943
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,090] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,251] "GET /images?q=tbn:ANd9GcQrqRsWFJ3492s0t0NmPEcpTQYTqNnH188R606cLOHm8H2pUGlH HTTP/1.1" 200 8563
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,264] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,430] "GET /images?q=tbn:ANd9GcTd6HAClMwCiLTsDxML5mcFvClG_DrVIHCnergwOrm0BuoY7AjS HTTP/1.1" 200 4210
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,442] Starting new HTTPS connection (1): encrypted-tbn1.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,604] "GET /images?q=tbn:ANd9GcTl8AZwGuLobuW_8l4Vrm81OUEtZQrJmEywM8ypGZYA9QO5TzKBYQ HTTP/1.1" 200 7864
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,618] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,801] "GET /images?q=tbn:ANd9GcTMOgeaekcbJYQA6hc8Yrz-FAyplENlJrMBwf6pKeoi_I2mF85fRw HTTP/1.1" 200 4705
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,814] Starting new HTTPS connection (1): encrypted-tbn1.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:11,979] "GET /images?q=tbn:ANd9GcRIOQqGml2BCbB-A6Rj0nwAQx_p4cSw_RzSlD1KyT34ozQ3ok8K HTTP/1.1" 200 7207
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:11,992] Starting new HTTPS connection (1): encrypted-tbn3.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:12,156] "GET /images?q=tbn:ANd9GcTK_s66cS0-ZxvuiElKPE8xtTzKUh7CiaGBjZOZOwHVrobRZox- HTTP/1.1" 200 6955
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:12,171] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:12,336] "GET /images?q=tbn:ANd9GcRIMDDmRw8GAAGozumauOKrUSAzBIcTbiibOMuOmccKheGi4_VPxg HTTP/1.1" 200 6292
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:12,349] Starting new HTTPS connection (1): encrypted-tbn0.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:12,509] "GET /images?q=tbn:ANd9GcQauGGjW1T2mK1tZ4EHPDQRm0LQ6YjjLiRPRS91dDXQuS81rSTl HTTP/1.1" 200 5455
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:12,573] Starting new HTTPS connection (1): encrypted-tbn2.gstatic.com
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:12,739] "GET /images?q=tbn:ANd9GcQfi93wB65qgZs2V9XErCIpTUlICfx0m3sWdZ2pod6UfSgOG9pjxg HTTP/1.1" 200 7478
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:12,755] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:13,103] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:13,107] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:13,469] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 448
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:13,473] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:13,820] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:13,825] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:14,172] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:14,176] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:14,559] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 444
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:14,563] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:14,914] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:14,918] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:15,270] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 447
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:15,274] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:15,615] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:15,620] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:15,981] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:15,985] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:16,334] "POST /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/sendPhoto?chat_id=304553912 HTTP/1.1" 200 445
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:30,057] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955468 HTTP/1.1" 200 23
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:30,063] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:12:50,373] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955468 HTTP/1.1" 200 23
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:12:50,377] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:13:10,691] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955468 HTTP/1.1" 200 23
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:13:10,695] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:13:31,003] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955468 HTTP/1.1" 200 23
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:13:31,007] Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:383]# DEBUG    [2016-12-14 18:13:51,309] "GET /bot241846034:AAEyQusHGpoh4xdlAIm1BysfcwIjElK8VBs/getUpdates?timeout=20&offset=797955468 HTTP/1.1" 200 23
+connectionpool.py[LINE:735]# INFO     [2016-12-14 18:13:51,313] Starting new HTTPS connection (1): api.telegram.org
